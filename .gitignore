@@ -1,0 +1,22 @@
+.venv/
+.env/
+.env
+__pycache__/
+# Logs
+logs/
+## DB and cache
+db.sqlite
+cache/
+AmazonDB/
+ChromaDBData/
+PlotDB_2/
+NetflixDB/
+DisneyDB/
+netflix_plot_cache/
+amazon_plot_cache/
+disney_plot_cache/
+choma_cache/
+plot_cache/
+
+## VSCode settings
+.vscode/

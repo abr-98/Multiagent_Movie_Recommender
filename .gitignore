@@ -15,8 +15,9 @@ DisneyDB/
 netflix_plot_cache/
 amazon_plot_cache/
 disney_plot_cache/
-Choma_cache/
+Chroma_cache/
 plot_cache/
+filering/
 
 ## VSCode settings
 .vscode/
